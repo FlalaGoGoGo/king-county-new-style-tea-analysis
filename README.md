@@ -1,5 +1,7 @@
 # King County New Style Tea Intelligence
 
+> A founder-oriented market entry project for new-style tea in King County.
+
 An interactive decision dashboard for choosing where and how to open a new-style tea shop in King County, Washington.
 
 ![Dashboard Preview](screenshots/dashboard_preview.png)
