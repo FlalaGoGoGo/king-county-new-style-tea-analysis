@@ -34,6 +34,14 @@ If you only do one thing, open the live dashboard:
 - 414 review rows in the current curated evidence pool
 - 5 scoring dimensions: Demand, Gap, Momentum, Text, and Feasibility
 
+## Market Background
+
+In recent years, major Chinese new-style tea brands have expanded more aggressively overseas, making tea-forward beverage formats a visible cross-border category rather than a niche domestic trend. Brands such as CHAGEE and Mixue have used international store growth to test whether modern tea concepts can travel across cities, customer segments, and retail environments.
+
+That macro trend is interesting, but it is still too broad for an actual founder decision. A first store is a local problem: where demand is real, where supply is still open, what product angle fits the neighborhood, and what operational risks need to be controlled early.
+
+This project translates that broader category trend into a practical ZIP-level decision system for King County.
+
 ## What This Project Is
 
 This project asks a practical founder question:
