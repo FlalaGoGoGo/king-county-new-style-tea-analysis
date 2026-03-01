@@ -1,0 +1,140 @@
+store_id,store_name,brand,zip5,city,logo_url,logo_source
+BID|PR0091735,32 BELOW SOFT SERVE + BUBBLE TEA,32 Below Bubble Tea,98058,RENTON,https://ui-avatars.com/api/?name=32+Below+Bubble+Tea&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0089601,ANGEL BOBA & SANDWICHES,Angel Boba,98002,AUBURN,https://ui-avatars.com/api/?name=Angel+Boba&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0091879,BOBA HOUSE,Boba House,98125,SEATTLE,https://ui-avatars.com/api/?name=Boba+House&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0088039,MELODY BOBA HOUSE,Boba House,98003,FEDERAL WAY,https://ui-avatars.com/api/?name=Boba+House&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0087843,BOBAE COFFEE & TEA,Bobae,98027,ISSAQUAH,https://ui-avatars.com/api/?name=Bobae&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0090707,BOBAE COFFEE & TEA,Bobae,98052,REDMOND,https://ui-avatars.com/api/?name=Bobae&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0092154,BOBAE COFFEE AND TEA,Bobae,98052,REDMOND,https://ui-avatars.com/api/?name=Bobae&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0020889,BOBAE USA DBA BOBAE COFFEE & TEA,Bobae,98072,WOODINVILLE,https://ui-avatars.com/api/?name=Bobae&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0090145,Bobae Coffee & Tea,Bobae,98033,KIRKLAND,https://ui-avatars.com/api/?name=Bobae&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0079741,BOBALUST,Bobalust,98003,FEDERAL WAY,https://ui-avatars.com/api/?name=Bobalust&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0086164,BOBALUST,Bobalust,98030,KENT,https://ui-avatars.com/api/?name=Bobalust&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0072295,BOBALUST,Bobalust,98033,KIRKLAND,https://ui-avatars.com/api/?name=Bobalust&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0052459,BOBALUST,Bobalust,98105,SEATTLE,https://ui-avatars.com/api/?name=Bobalust&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0065136,BOBALUST,Bobalust,98166,BURIEN,https://ui-avatars.com/api/?name=Bobalust&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0087133,BOBALUST TEA HOUSE,Bobalust,98188,TUKWILA,https://ui-avatars.com/api/?name=Bobalust&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0091843,Bober Tea & Mochi Dough,Bober Tea & Mochi Dough,98102,SEATTLE,https://ui-avatars.com/api/?name=Bober+Tea+%26+Mochi+Dough&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+MANUAL|CHACO_COFFEE_TEA_SEATTLE_98109,CHACO COFFEE & TEA,Chaco Coffee & Tea,98109,SEATTLE,https://ui-avatars.com/api/?name=Chaco+Coffee+%26+Tea&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0085053,CHACO COFFEE AND TEA,Chaco Coffee & Tea,98109,SEATTLE,https://ui-avatars.com/api/?name=Chaco+Coffee+%26+Tea&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+MANUAL|CHAYAN_SEATTLE_98105,CHAYAN,Chayan,98105,SEATTLE,https://ui-avatars.com/api/?name=Chayan&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0089923,CHICHA SAN CHEN,Chicha San Chen,98004,BELLEVUE,https://logo.clearbit.com/chichasanchen.com,clearbit_domain
+BID|PR0092458,Chicha San Chen,Chicha San Chen,98188,TUKWILA,https://logo.clearbit.com/chichasanchen.com,clearbit_domain
+BID|PR0092784,CHOO TEA,Choo Tea,98004,BELLEVUE,https://ui-avatars.com/api/?name=Choo+Tea&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+MANUAL|CHOO_TEA_BELLEVUE_98004,CHOO TEA BELLEVUE,Choo Tea,98004,BELLEVUE,https://ui-avatars.com/api/?name=Choo+Tea&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0091778,COCO FRESH,CoCo Fresh Tea & Juice,98105,SEATTLE,https://logo.clearbit.com/coco-tea.com,clearbit_domain
+BID|PR0081538,COCO FRESH TEA & JUICE,CoCo Fresh Tea & Juice,98004,BELLEVUE,https://logo.clearbit.com/coco-tea.com,clearbit_domain
+BID|PR0081660,COCO FRESH TUKWILA,CoCo Fresh Tea & Juice,98188,TUKWILA,https://logo.clearbit.com/coco-tea.com,clearbit_domain
+BID|PR0091273,Come Buy Tea,Comebuy Tea,98122,SEATTLE,https://logo.clearbit.com/comebuy2002.com.tw,clearbit_domain
+BID|PR0071069,DIY TEA LAB,DIY Tea Lab,98034,KIRKLAND,https://ui-avatars.com/api/?name=DIY+Tea+Lab&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0088857,DIY TEA LAB - NEWCASTLE,DIY Tea Lab,98059,NEWCASTLE,https://ui-avatars.com/api/?name=DIY+Tea+Lab&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+MANUAL|DIY_TEA_LAB_NORTHGATE_98125,DIY TEA LAB - NORTHGATE,DIY Tea Lab,98125,SEATTLE,https://ui-avatars.com/api/?name=DIY+Tea+Lab&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0087763,JUST POKE & DIY TEA LAB,DIY Tea Lab,98103,SEATTLE,https://ui-avatars.com/api/?name=DIY+Tea+Lab&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0087072,JUST POKE & DIY TEA LAB,DIY Tea Lab,98107,SEATTLE,https://ui-avatars.com/api/?name=DIY+Tea+Lab&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0088750,DING TEA,Ding Tea,98032,KENT,https://logo.clearbit.com/dingtea.com,clearbit_domain
+BID|PR0045529,DING TEA,Ding Tea,98105,SEATTLE,https://logo.clearbit.com/dingtea.com,clearbit_domain
+BID|PR0091619,DING TEA+ & 36 STREETS VIETNAMESE COFFEE,Ding Tea,98034,KIRKLAND,https://logo.clearbit.com/dingtea.com,clearbit_domain
+BID|PR0088284,"DING TEA, COVINGTON",Ding Tea,98042,COVINGTON,https://logo.clearbit.com/dingtea.com,clearbit_domain
+BID|PR0091982,DON'T YELL AT ME,Dont Yell At Me,98004,BELLEVUE,https://logo.clearbit.com/dontyellatme.com,clearbit_domain
+BID|PR0053727,DON'T YELL AT ME,Dont Yell At Me,98105,SEATTLE,https://logo.clearbit.com/dontyellatme.com,clearbit_domain
+BID|PR0089620,DONT YELL AT ME,Dont Yell At Me,98034,KIRKLAND,https://logo.clearbit.com/dontyellatme.com,clearbit_domain
+BID|PR0090644,Dont Yell At Me,Dont Yell At Me,98102,SEATTLE,https://logo.clearbit.com/dontyellatme.com,clearbit_domain
+BID|PR0087952,DRINK T,Drink T,98007,BELLEVUE,https://ui-avatars.com/api/?name=Drink+T&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0091742,DRIP TEA,Drip Tea,98032,KENT,https://ui-avatars.com/api/?name=Drip+Tea&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0086241,DRIP TEA,Drip Tea,98122,SEATTLE,https://ui-avatars.com/api/?name=Drip+Tea&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0091100,FENG CHA,Feng Cha,98057,RENTON,https://ui-avatars.com/api/?name=Feng+Cha&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0092614,"TeaDOS, LLC dba Gong Cha",Gong Cha,98122,SEATTLE,https://logo.clearbit.com/gongchausofficial.com,clearbit_domain
+BID|PR0089077,HEY TEA,HEYTEA,98004,BELLEVUE,https://logo.clearbit.com/heytea.com,clearbit_domain
+BID|PR0092910,HEYTEA,HEYTEA,98052,REDMOND,https://logo.clearbit.com/heytea.com,clearbit_domain
+BID|PR0092394,HEYTEA SOUTH LAKE UNION,HEYTEA,98109,SEATTLE,https://logo.clearbit.com/heytea.com,clearbit_domain
+BID|PR0091675,HAPPY LEMON,Happy Lemon,98002,AUBURN,https://logo.clearbit.com/happylemonusa.com,clearbit_domain
+BID|PR0077019,HAPPY LEMON,Happy Lemon,98004,BELLEVUE,https://logo.clearbit.com/happylemonusa.com,clearbit_domain
+BID|PR0088150,HAPPY LEMON,Happy Lemon,98005,BELLEVUE,https://logo.clearbit.com/happylemonusa.com,clearbit_domain
+BID|PR0049678,HAPPY LEMON,Happy Lemon,98027,ISSAQUAH,https://logo.clearbit.com/happylemonusa.com,clearbit_domain
+BID|PR0088862,HAPPY LEMON,Happy Lemon,98033,KIRKLAND,https://logo.clearbit.com/happylemonusa.com,clearbit_domain
+BID|PR0090928,HAPPY LEMON,Happy Lemon,98042,COVINGTON,https://logo.clearbit.com/happylemonusa.com,clearbit_domain
+BID|PR0054773,HAPPY LEMON,Happy Lemon,98052,REDMOND,https://logo.clearbit.com/happylemonusa.com,clearbit_domain
+BID|PR0092256,HAPPY LEMON,Happy Lemon,98059,RENTON,https://logo.clearbit.com/happylemonusa.com,clearbit_domain
+BID|PR0087041,HAPPY LEMON,Happy Lemon,98118,SEATTLE,https://logo.clearbit.com/happylemonusa.com,clearbit_domain
+BID|PR0089611,HAPPY LEMON  dba TRICERA LLC,Happy Lemon,98105,SEATTLE,https://logo.clearbit.com/happylemonusa.com,clearbit_domain
+BID|PR0004561,HAPPY LEMON - TUKWILA,Happy Lemon,98188,TUKWILA,https://logo.clearbit.com/happylemonusa.com,clearbit_domain
+BID|PR0090866,Happy Lemon Bubble Tea,Happy Lemon,98106,SEATTLE,https://logo.clearbit.com/happylemonusa.com,clearbit_domain
+BID|PR0092261,Pearl of Alki LLC DbA Happy Lemon Alki Beach,Happy Lemon,98116,SEATTLE,https://logo.clearbit.com/happylemonusa.com,clearbit_domain
+BID|PR0088970,TYRANNO LLC DBA HAPPY LEMON,Happy Lemon,98121,SEATTLE,https://logo.clearbit.com/happylemonusa.com,clearbit_domain
+BID|PR0083088,HI TEA CAFE,Hi Tea Cafe,98102,SEATTLE,https://ui-avatars.com/api/?name=Hi+Tea+Cafe&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0057251,ALKI ICE CREAM & BUBBLE TEA,Independent/Other,98116,SEATTLE,https://ui-avatars.com/api/?name=Independent%2FOther&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0026200,BOBA EXPRESS,Independent/Other,98008,BELLEVUE,https://ui-avatars.com/api/?name=Independent%2FOther&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0092783,BOBA GO LLC,Independent/Other,98134,SEATTLE,https://ui-avatars.com/api/?name=Independent%2FOther&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0081056,BOBA SMOOTHIES #9075,Independent/Other,98188,TUKWILA,https://ui-avatars.com/api/?name=Independent%2FOther&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0085442,BOBA UP,Independent/Other,98105,SEATTLE,https://ui-avatars.com/api/?name=Independent%2FOther&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0018797,HUB BOBA LLC,Independent/Other,98040,MERCER ISLAND,https://ui-avatars.com/api/?name=Independent%2FOther&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0081913,HYSON BOBA TEA & CAFE,Independent/Other,98112,SEATTLE,https://ui-avatars.com/api/?name=Independent%2FOther&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0070169,I-TEA,Independent/Other,98032,KENT,https://ui-avatars.com/api/?name=Independent%2FOther&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0090183,JUST POKE AND PURE BOBA,Independent/Other,98055,RENTON,https://ui-avatars.com/api/?name=Independent%2FOther&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0071303,MAMA'S VIET KITCHEN & BOBA GEM,Independent/Other,98105,SEATTLE,https://ui-avatars.com/api/?name=Independent%2FOther&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0089635,"MICHELLE'S BUBBLE TEA, INC.",Independent/Other,98116,WEST SEATTLE,https://ui-avatars.com/api/?name=Independent%2FOther&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0087742,NEIGHBORHOOD BUBBLE TEA AND COFFEE,Independent/Other,98158,SEATAC,https://ui-avatars.com/api/?name=Independent%2FOther&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0091922,OMO Thai Tea,Independent/Other,98004,BELLEVUE,https://ui-avatars.com/api/?name=Independent%2FOther&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0081977,T4 TEA FOR U,Independent/Other,98006,BELLEVUE,https://ui-avatars.com/api/?name=Independent%2FOther&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0013093,WOODINVILLE BAGEL BOBA,Independent/Other,98072,WOODINVILLE,https://ui-avatars.com/api/?name=Independent%2FOther&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0087745,JAY TEA,Jay Tea,98188,TUKWILA,https://ui-avatars.com/api/?name=Jay+Tea&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0092931,JinJin Matcha,JinJin Matcha,98101,SEATTLE,https://ui-avatars.com/api/?name=JinJin+Matcha&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0091761,KUNG FU TEA X TKK CHICKEN,Kung Fu Tea,98055,RENTON,https://logo.clearbit.com/kungfutea.com,clearbit_domain
+BID|PR0083744,MACU TEA,Macu Tea,98004,BELLEVUE,https://ui-avatars.com/api/?name=Macu+Tea&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0084565,MACU TEA,Macu Tea,98105,SEATTLE,https://ui-avatars.com/api/?name=Macu+Tea&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0033930,MATCHA MAGIC,Matcha Magic,98004,BELLEVUE,https://ui-avatars.com/api/?name=Matcha+Magic&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0090810,MATCHA MAGIC,Matcha Magic,98052,REDMOND,https://ui-avatars.com/api/?name=Matcha+Magic&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0092823,MATCHA MAGIC CAFE,Matcha Magic,98122,SEATTLE,https://ui-avatars.com/api/?name=Matcha+Magic&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0086079,MATCHA MAGIC- SOUTHLAKE UNION,Matcha Magic,98109,SEATTLE,https://ui-avatars.com/api/?name=Matcha+Magic&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0090483,Matcha Man Icecream LLC,Matcha Man,98108,SEATTLE,https://ui-avatars.com/api/?name=Matcha+Man&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0091672,MAURITIUS BROWN BUBBLE TEA,Mauritius Brown Bubble Tea,98028,KENMORE,https://ui-avatars.com/api/?name=Mauritius+Brown+Bubble+Tea&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0076771,MIRO TEA,Miro Tea,98107,SEATTLE,https://ui-avatars.com/api/?name=Miro+Tea&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0076480,MIRO TEA ANNEX,Miro Tea,98199,SEATTLE,https://ui-avatars.com/api/?name=Miro+Tea&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0089691,MISS BOBA,Miss Boba,98032,KENT,https://ui-avatars.com/api/?name=Miss+Boba&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0077115,NAN NOODLE & MOGE TEE,Moge Tee,98007,BELLEVUE,https://ui-avatars.com/api/?name=Moge+Tee&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0088717,MOLLY TEA,Molly Tea,98004,BELLEVUE,https://ui-avatars.com/api/?name=Molly+Tea&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0091950,MUSTACHE MILK TEA,Mustache Milk Tea,98133,SHORELINE,https://ui-avatars.com/api/?name=Mustache+Milk+Tea&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0082492,OASIS TEA ZONE,Oasis Tea Zone,98057,RENTON,https://ui-avatars.com/api/?name=Oasis+Tea+Zone&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0068631,OASIS TEA ZONE,Oasis Tea Zone,98104,SEATTLE,https://ui-avatars.com/api/?name=Oasis+Tea+Zone&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0086120,Oasis Tea Zone,Oasis Tea Zone,98105,SEATTLE,https://ui-avatars.com/api/?name=Oasis+Tea+Zone&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0092430,Phe,Phê,98122,SEATTLE,https://ui-avatars.com/api/?name=Ph%C3%AA&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0079429,VOI CA PHE,Phê,98108,SEATTLE,https://ui-avatars.com/api/?name=Ph%C3%AA&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0090258,POCHI BUBBLE TEA CAFE,Pochi Bubble Tea Cafe,98034,KIRKLAND,https://ui-avatars.com/api/?name=Pochi+Bubble+Tea+Cafe&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0088495,CHANG & SIDA LLC dba SHARETEA PLUS,Sharetea,98188,TUKWILA,https://logo.clearbit.com/1992sharetea.com,clearbit_domain
+BID|PR0084997,SHARE TEA,Sharetea,98057,RENTON,https://logo.clearbit.com/1992sharetea.com,clearbit_domain
+BID|PR0088529,SHARE TEA,Sharetea,98198,DES MOINES,https://logo.clearbit.com/1992sharetea.com,clearbit_domain
+BID|PR0090389,SHARETEA,Sharetea,98042,COVINGTON,https://logo.clearbit.com/1992sharetea.com,clearbit_domain
+BID|PR0090870,SHARETEA,Sharetea,98052,REDMOND,https://logo.clearbit.com/1992sharetea.com,clearbit_domain
+BID|PR0088718,SHARETEA BOTHELL,Sharetea,98011,BOTHELL,https://logo.clearbit.com/1992sharetea.com,clearbit_domain
+BID|PR0003636,SHARETEA CHINATOWN,Sharetea,98104,SEATTLE,https://logo.clearbit.com/1992sharetea.com,clearbit_domain
+BID|PR0091875,SOCIAL TEA CAPITOL HILL LLC  dba Social Tea,Social Tea,98101,SEATTLE,https://ui-avatars.com/api/?name=Social+Tea&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0091422,SUNRIGHT TEA STUDIO,Sunright Tea Studio,98003,FEDERAL WAY,https://logo.clearbit.com/sunrighttea.com,clearbit_domain
+BID|PR0090516,Sunright Tea Studio,Sunright Tea Studio,98105,SEATTLE,https://logo.clearbit.com/sunrighttea.com,clearbit_domain
+BID|PR0089128,TP TEA,TP Tea,98104,SEATTLE,https://logo.clearbit.com/tp-tea.com,clearbit_domain
+BID|PR0089993,TP TEA,TP Tea,98105,SEATTLE,https://logo.clearbit.com/tp-tea.com,clearbit_domain
+BID|PR0088632,TRA TEA & JUICE BAR,TRA Tea & Juice Bar,98033,KIRKLAND,https://ui-avatars.com/api/?name=TRA+Tea+%26+Juice+Bar&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0089105,TRA TEA & JUICE BAR,TRA Tea & Juice Bar,98056,RENTON,https://ui-avatars.com/api/?name=TRA+Tea+%26+Juice+Bar&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0090513,TAB MILKTEA,Tab Milktea,98126,SEATTLE,https://ui-avatars.com/api/?name=Tab+Milktea&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0076997,TAPIOCA EXPRESS,Tapioca Express,98052,REDMOND,https://ui-avatars.com/api/?name=Tapioca+Express&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0088199,"TEA ADDICTS, LLC",Tea Addicts,98122,SEATTLE,https://ui-avatars.com/api/?name=Tea+Addicts&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0090686,Tea Addicts,Tea Addicts,98115,SEATTLE,https://ui-avatars.com/api/?name=Tea+Addicts&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0090206,Tea Talk Bubble Tea Cafe,Tea Talk Bubble Tea Cafe,98074,SAMMAMISH,https://ui-avatars.com/api/?name=Tea+Talk+Bubble+Tea+Cafe&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+MANUAL|TEAFAIRY_TEA_HOUSE_REDMOND_98052,TEAFAIRY TEA HOUSE,TeaFairy Tea House,98052,REDMOND,https://ui-avatars.com/api/?name=TeaFairy+Tea+House&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0092388,Teazzi Tea Shop,Teazzi,98040,MERCER ISLAND,https://ui-avatars.com/api/?name=Teazzi&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0011020,TEEWS,Teews Barkery,98133,SHORELINE,https://ui-avatars.com/api/?name=Teews+Barkery&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+MANUAL|TEEWS_BAKERY_BELLEVUE_98008,TEEWS BAKERY,Teews Barkery,98008,BELLEVUE,https://ui-avatars.com/api/?name=Teews+Barkery&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0091769,"THE ALLEY, IT'S TIME FOR TEA",The Alley,98104,SEATTLE,https://logo.clearbit.com/the-alley.us,clearbit_domain
+BID|PR0090397,TIGER SUGAR SEATTLE,Tiger Sugar,98101,SEATTLE,https://ui-avatars.com/api/?name=Tiger+Sugar&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0087800,TIMELESS TEA,Timeless Tea,98105,SEATTLE,https://logo.clearbit.com/timelesstea.com,clearbit_domain
+BID|PR0087973,TIMELESS TEA DESSERT CAFE,Timeless Tea,98007,BELLEVUE,https://logo.clearbit.com/timelesstea.com,clearbit_domain
+BID|PR0090952,Timeless Tea Dessert Cafe,Timeless Tea,98027,ISSAQUAH,https://logo.clearbit.com/timelesstea.com,clearbit_domain
+BID|PR0089583,UG TEA - BELLEVUE,UG Tea,98004,BELLEVUE,https://ui-avatars.com/api/?name=UG+Tea&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0093071,Vale Coffee and Matcha #2,Vale Matcha,98106,SEATTLE,https://ui-avatars.com/api/?name=Vale+Matcha&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0093070,Vale Matcha and Coffee,Vale Matcha,98106,SEATTLE,https://ui-avatars.com/api/?name=Vale+Matcha&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0090514,XING FU TANG,Xing Fu Tang,98101,SEATTLE,https://logo.clearbit.com/xingfutang.com,clearbit_domain
+BID|PR0091289,YAN TEA,Yan Tea,98105,SEATTLE,https://ui-avatars.com/api/?name=Yan+Tea&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0088253,YI FANG TAIWAN FRUIT TEA,Yi Fang Taiwan Fruit Tea,98105,SEATTLE,https://logo.clearbit.com/yifangteausa.com,clearbit_domain
+BID|PR0087884,YIFANG TAIWAN FRUIT TEA,Yi Fang Taiwan Fruit Tea,98052,REDMOND,https://logo.clearbit.com/yifangteausa.com,clearbit_domain
+BID|PR0050040,YIFANG TAIWAN FRUIT TEA,Yi Fang Taiwan Fruit Tea,98104,SEATTLE,https://logo.clearbit.com/yifangteausa.com,clearbit_domain
+BID|PR0092398,YOUNG TEA,Young Tea,98005,BELLEVUE,https://ui-avatars.com/api/?name=Young+Tea&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback
+BID|PR0090057,YOUNG TEA,Young Tea,98103,SEATTLE,https://ui-avatars.com/api/?name=Young+Tea&background=F5EFE6&color=111111&rounded=true&size=128&bold=true,ui_avatar_fallback

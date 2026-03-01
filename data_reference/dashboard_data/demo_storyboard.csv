@@ -1,0 +1,5 @@
+scenario_id,scenario_name,what_to_click,expected_message,support_metric
+S1,Opportunity-first pitch,Sort ZIP list by opportunity_score descending; click 98133,Show high demand + manageable supply + stable rank,"opportunity_score, demand_score, supply_score, top1_freq_pct"
+S2,Operations playbook,"From selected ZIP, open text panel and action note",Translate text topics to staffing/menu actions,"topic_terms, mean_sentiment, recommended_strategy, action_note"
+S3,Risk defense in Q&A,Toggle substitute layer for same ZIP,"Core ranking stays, but substitute pressure informs risk","substitute_store_count, starbucks_flag_count"
+S4,Brand/store drill-down,Filter brand cards to UG Tea / Happy Lemon and inspect stores,Separate brand-level strategy from store-level execution,"store_count, avg_google_rating, total_google_ratings"
