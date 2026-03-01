@@ -1,0 +1,42 @@
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor settings
+.vscode/
+.idea/
+
+# Local secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Temporary files
+*.log
+*.tmp
+tmp/
+
+# Local build/output folders not meant for the public repo
+outputs/
+build/
+dist/
+
+# Prevent accidental raw backup or recovery dumps
+data/raw/*backup*
+data/raw/*pre_recovery*
+data/raw/*debug*
+data/raw/*error*
+data/raw/*.ndjson
+data/raw/*.jsonl
