@@ -12,6 +12,22 @@ If you only do one thing, open the live dashboard:
 
 - [Live Dashboard](https://is521.flalaz.com)
 - [GitHub Pages Backup Link](https://flalagogogo.github.io/king-county-new-style-tea-analysis/)
+- [Reference Tables](data_reference/)
+
+## Quick Links
+
+- [Open the Dashboard](https://is521.flalaz.com)
+- [Open the Backup Link](https://flalagogogo.github.io/king-county-new-style-tea-analysis/)
+- [Browse Reference Data](data_reference/)
+- [Open the Published HTML](docs/index.html)
+
+## Project Snapshot
+
+- 48 ZIP codes in scope
+- 139 tea-forward stores
+- 59 brands
+- 414 review rows in the current curated evidence pool
+- 5 scoring dimensions: Demand, Gap, Momentum, Text, and Feasibility
 
 ## What This Project Is
 
@@ -138,7 +154,7 @@ This project uses a combination of public, platform, and curated sources:
 
 ```text
 docs/                  published dashboard for GitHub Pages
-data_reference/        supporting CSV / JSON reference tables
+data_reference/        supporting CSV / JSON / TXT reference tables
 screenshots/           preview images
 ```
 
