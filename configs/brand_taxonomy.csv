@@ -1,0 +1,76 @@
+brand,origin_region,positioning,business_model,primary_beverage_category,hero_products,regex_pattern,evidence_url
+Sharetea,Taiwan,Mainstream milk tea and fruit tea chain,Franchise-heavy,MilkTea,classic milk tea/fruit tea,share\s*tea|sharetea,https://www.1992sharetea.com/
+Ding Tea,Taiwan,Mainstream milk tea chain with broad toppings,Franchise-heavy,MilkTea,milk tea/toppings,ding\s*tea,https://www.dingtea.com/
+Gong Cha,Taiwan,Global tea franchise with strong urban mall footprint,Franchise-heavy,MilkTea,milk tea/fruit tea,gong\s*cha,https://gongchausofficial.com/
+CoCo Fresh Tea & Juice,Taiwan,Scale chain with broad menu and value orientation,Franchise-heavy,MilkTea,milk tea/juice,coco\s*fresh|co\s*co\s*fresh,https://www.coco-tea.com/
+Happy Lemon,Taiwan,Cheese-foam and flavored tea specialist,Franchise-heavy,CheeseTea,salted cheese tea/lemon tea,happy\s*lemon,https://happylemonusa.com/
+Kung Fu Tea,United States (Taiwan-style),Large US chain focused on milk tea and customization,Franchise-heavy,MilkTea,milk tea/customized sugar-ice,kung\s*fu\s*tea,https://www.kungfutea.com/
+TP Tea,Taiwan,Premium tea-latte positioning,Franchise/select,PureTea,tea latte/hand-shaken tea,\btp\s*tea\b,https://www.tp-tea.com/
+Yi Fang Taiwan Fruit Tea,Taiwan,Fruit tea and traditional Taiwan recipe positioning,Franchise/select,FruitTea,fruit tea/aiyu jelly,yi\s*fang|yifang,https://www.yifangteausa.com/
+Comebuy Tea,Taiwan,Tea chain with fruit tea and milk tea mix,Franchise/select,FruitTea,fruit tea/milk tea,come\s*buy\s*tea|come\s*buy,https://www.comebuy2002.com.tw/
+Sunright Tea Studio,Taiwan-origin premium style,Premium experiential milk tea chain,Partner/store growth,MilkTea,milk tea/fresh tea,sunright,https://www.sunrighttea.com/
+The Alley,Taiwan,Premium visual-brand milk tea and brown sugar focus,Franchise/select,MilkTea,brown sugar milk tea,the\s*alley,https://www.the-alley.us/
+HEYTEA,Mainland China,Premium new-style tea with high brand marketing,Direct/partner,CheeseTea,cheese tea/fruit tea,hey\s*tea|heytea,https://www.heytea.com/
+Molly Tea,Mainland China,Jasmine-led floral tea specialist,Direct/partner,PureTea,jasmine tea/milk tea,molly\s*tea,
+Macu Tea,Taiwan,Youth-oriented milk tea chain,Franchise/select,MilkTea,pearl milk tea,macu\s*tea,
+Teazzi,Unclear/likely Taiwan-style,Tea chain with fruit and milk tea mix,Franchise/select,MilkTea,milk tea/fruit tea,teazzi,
+Bobae,Local/Regional,Hybrid coffee and milk tea concept,Independent/mini-chain,MilkTea,boba coffee/milk tea,bobae,
+Oasis Tea Zone,Local Seattle,Local value-oriented bubble tea concept,Independent chain,MilkTea,boba milk tea/oolong,oasis\s*tea\s*zone,
+Tapioca Express,Taiwan-origin legacy chain,Classic boba chain,Franchise/select,MilkTea,classic pearl milk tea,tapioca\s*express,
+Tea Addicts,Local/Regional,Independent specialty tea/boba concept,Independent,MilkTea,milk tea/fruit tea,tea\s*addicts,
+32 Below Bubble Tea,Local/Regional,Dessert plus bubble tea hybrid,Independent,MilkTea,bubble tea/soft serve,32\s*below,
+Angel Boba,Local/Regional,Sandwich plus bubble tea hybrid,Independent,MilkTea,boba/sandwich combo,angel\s*boba,
+Miss Boba,Local/Regional,Independent boba-focused shop,Independent,MilkTea,boba milk tea,miss\s*boba,
+Chicha San Chen,Taiwan,Premium hand-brewed tea specialist,Franchise/select,PureTea,teapresso/fresh milk tea,chicha\s*san\s*chen,https://www.chichasanchen.com/
+Young Tea,Local/Regional,New-style tea shop with broad menu,Independent,MilkTea,milk tea/fruit tea,young\s*tea,
+Dont Yell At Me,Taiwan-origin style,Design-led tea brand,Franchise/select,PureTea,signature tea latte/donut pairing,don'?t\s*yell\s*at\s*me|dont\s*yell\s*at\s*me,https://dontyellatme.com/
+Timeless Tea,Local/Regional,Dessert cafe and tea hybrid,Independent,MilkTea,milk tea/dessert,timeless\s*tea,https://timelesstea.com/
+Xing Fu Tang,Taiwan,Brown sugar boba specialist,Franchise/select,MilkTea,brown sugar boba milk,xing\s*fu\s*tang,https://www.xingfutang.com/
+Drink T,Local/Regional,Tea-focused independent concept,Independent,FruitTea,fruit tea/milk tea,drink\s*t|drinkt,
+Yan Tea,Local/Regional,Tea-focused independent concept,Independent,PureTea,pure tea/milk tea,yan\s*tea,
+Jay Tea,Local/Regional,Tea-focused independent concept,Independent,MilkTea,milk tea/fruit tea,jay\s*tea,
+Boba House,Local/Regional,Neighborhood boba concept,Independent,MilkTea,boba drinks,boba\s*house,
+Mustache Milk Tea,Local/Regional,Milk tea focused concept,Independent,MilkTea,milk tea/smoothie,mustache\s*milk\s*tea,
+Pochi Bubble Tea Cafe,Local/Regional,Boba + snack cafe,Independent,MilkTea,bubble tea/cafe snacks,pochi\s*bubble\s*tea,
+Tea Talk Bubble Tea Cafe,Local/Regional,Neighborhood boba cafe,Independent,MilkTea,bubble tea,tea\s*talk\s*bubble\s*tea,
+Tab Milktea,Taiwan-style,Milk tea specialist,Independent,MilkTea,milk tea/tab milktea,tab\s*milk\s*tea|tab\s*milktea,
+MIXUE,Mainland China,Value chain tea and ice cream model,Franchise-heavy,FruitTea,lemonade/ice cream tea,\bmixue\b,https://www.reuters.com/world/china/chinese-tea-chain-mixue-files-hong-kong-ipo-paper-2025-01-01/
+LELECHA,Mainland China,New-style tea with bakery pairing,Direct/partner,CheeseTea,cheese tea/bread,lelecha,https://www.lelecha.com/
+UG Tea,Mainland China,New-style tea chain,Partner/store growth,PureTea,pure tea/fruit tea,\bug\s*tea\b,
+Chayan,Mainland China,Chinese-style tea brand,Direct/partner,PureTea,tea latte/pure tea,\bchayan\b|cha\s*yan\s*yue\s*se,
+Hechalou Tea House,Mainland China style,Tea house style concept,Independent,PureTea,traditional tea,hechalou,
+3Cat,Local/Regional,Cat-theme tea concept,Independent,MilkTea,milk tea/snacks,\b3cat\b|\bthree\s*cat\b,
+ALittle Tea,Mainland China style,New-style tea chain concept,Partner/store growth,MilkTea,milk tea/fruit tea,a\s*little\s*tea|alittle\s*tea,
+ici Tea,Local/Regional,Tea-focused independent concept,Independent,FruitTea,fruit tea/milk tea,ici\s*tea,
+Cha Redefine,Local/Regional,Tea innovation concept,Independent,PureTea,pure tea/fruit tea,cha\s*redefine,
+Teews Barkery,Local/Regional,Tea + bakery concept,Independent,Unknown,tea/bakery,teews\s*barkery|teews,
+Sweet 7,Local/Regional,Sweet beverage and tea concept,Independent,FruitTea,fruit tea/dessert,sweet\s*7,
+Shu Shia,Mainland China,Regional tea brand expansion,Partner/store growth,FruitTea,fruit tea/milk tea,shu\s*shia,https://shushiatea.com/
+NaiSnow Tea,Mainland China style,Milk tea and dessert concept,Partner/store growth,MilkTea,milk tea/snow dessert,nai\s*snow\s*tea|naisnow,
+ChaHalo,Local/Regional,Tea-focused independent concept,Independent,PureTea,pure tea/fruit tea,cha\s*halo|chahalo,
+Auntea Jenny,Mainland China,Mainland chain brand,Franchise-heavy,MilkTea,milk tea/fruit tea,aun\s*tea\s*jenny|auntea\s*jenny,
+CHAGEE,Mainland China,Premium fresh tea chain,Direct/partner,PureTea,jasmine green milk tea/chinese tea,chagee,https://www.reuters.com/business/retail-consumer/chinese-tea-chain-chagee-files-us-ipo-2025-04-17/
+Nayuki (Nai Xue),Mainland China,Premium tea and bakery chain,Direct/partner,CheeseTea,fruit tea/soft bread,nayuki|nai\s*xue,
+Tiger Sugar,Taiwan,Brown sugar boba specialist,Franchise/select,MilkTea,brown sugar boba,tiger\s*sugar,
+Moge Tee,Mainland China,Cheese tea and fruit tea specialist,Franchise/select,CheeseTea,cheese tea/fruit tea,moge\s*tee,
+Machi Machi,Taiwan,Design-forward premium milk tea concept,Franchise/select,MilkTea,bottled milk tea,machi\s*machi,
+7 Leaves Cafe,United States (Taiwan-style),US west coast tea chain,Franchise/select,MilkTea,house coffee/milk tea,7\s*leaves,
+Presotea,Taiwan,Tea extraction machine concept,Franchise/select,PureTea,fresh brewed tea/presotea,presotea,
+Choo Tea,Local/Regional,Local tea shop,Independent,MilkTea,milk tea/fruit tea,choo\s*tea,
+Chaco Coffee & Tea,Local/Regional,Coffee and tea hybrid,Independent,MilkTea,coffee/tea,chaco\s*coffee|chaco\s*tea|chaco\s*coffee\s*&\s*tea,
+Bobalust,Local/Regional,Multi-city boba tea chain in King County,Independent chain,MilkTea,boba milk tea,\bbobalust\b,
+Drip Tea,Local/Regional,Tea-forward shop with milk tea lineup,Independent,FruitTea,milk tea/fruit tea,\bdrip\s*tea\b,
+TRA Tea & Juice Bar,Local/Regional,Tea and juice bar concept,Independent,FruitTea,tea and juice,tra\s*tea\s*&\s*juice\s*bar|tra\s*tea,
+Feng Cha,Mainland China style,Fruit tea and milk tea concept,Partner/store growth,FruitTea,fruit tea/milk tea,\bfeng\s*cha\b,
+Hi Tea Cafe,Local/Regional,Tea cafe concept,Independent,MilkTea,milk tea/fruit tea,\bhi\s*tea\s*cafe\b|^hi\s*tea\b,
+Social Tea,Local/Regional,Urban tea cafe concept,Independent,PureTea,tea latte/pure tea,social\s*tea,
+Bober Tea & Mochi Dough,Local/Regional,Dessert and tea hybrid,Independent,Unknown,boba tea/mochi dough,bober\s*tea,
+Matcha Magic,Local/Regional,Matcha-focused multi-store concept,Independent,Matcha,matcha latte/matcha dessert,matcha\s*magic,
+JinJin Matcha,Local/Regional,Matcha specialty concept,Independent,Matcha,matcha drinks,\bjinjin\s*matcha\b,
+Matcha Man,Local/Regional,Matcha dessert and beverage concept,Independent,Matcha,matcha ice cream/matcha drinks,matcha\s*man,
+Vale Matcha,Local/Regional,Matcha and coffee hybrid concept,Independent,Matcha,matcha latte/coffee,vale\s*(coffee\s*and\s*)?matcha,
+Miro Tea,Local/Regional,Specialty tea house concept,Independent,PureTea,loose-leaf tea,miro\s*tea,
+Phê,Vietnamese style,Vietnamese coffee and tea concept,Independent,Unknown,tea/coffee,\bph[eê]\b|voi\s*ca\s*phe,
+DIY Tea Lab,Local/Regional,Tea customization concept,Independent,FruitTea,custom tea drinks,diy\s*tea\s*lab,
+Mauritius Brown Bubble Tea,Local/Regional,Tea-forward boba concept with brown sugar focus,Independent,MilkTea,brown sugar boba,mauritius\s*brown|mauritius[^a-z0-9]*the,
+TeaFairy Tea House,Local/Regional,Independent tea house concept,Independent,MilkTea,milk tea/fruit tea,tea\s*fairy|teafairy,

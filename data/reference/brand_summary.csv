@@ -1,0 +1,60 @@
+brand,store_count,city_count,zip_count,primary_beverage_category,business_model,avg_google_rating,total_google_ratings,total_local_review_rows,raw_hit_rows,detected_store_count,detected_city_count
+Independent/Other,15,9,13,Unknown,Independent,4.166666666666667,4315.0,113,,,
+Happy Lemon,14,9,14,CheeseTea,Franchise-heavy,4.2,4534.0,805,102.0,14.0,9.0
+Sharetea,7,7,7,MilkTea,Franchise-heavy,4.314285714285714,1997.0,130,58.0,8.0,8.0
+Bobalust,6,6,6,MilkTea,Independent chain,4.333333333333333,1500.0,130,84.0,6.0,6.0
+DIY Tea Lab,5,3,5,FruitTea,Independent,4.25,768.0,30,56.0,4.0,3.0
+Bobae,5,4,4,MilkTea,Independent/mini-chain,4.66,1767.0,85,23.0,5.0,4.0
+Matcha Magic,4,3,4,Matcha,Independent,4.8,1243.0,30,5.0,4.0,3.0
+Dont Yell At Me,4,3,4,PureTea,Franchise/select,4.300000000000001,1266.0,120,39.0,4.0,3.0
+Ding Tea,4,4,4,MilkTea,Franchise-heavy,4.175,909.0,50,61.0,4.0,4.0
+Oasis Tea Zone,3,2,3,MilkTea,Independent chain,3.8333333333333335,2453.0,90,148.0,3.0,2.0
+Timeless Tea,3,3,3,MilkTea,Independent,4.133333333333334,1074.0,40,62.0,3.0,3.0
+HEYTEA,3,3,3,CheeseTea,Direct/partner,3.766666666666667,1391.0,35,16.0,3.0,3.0
+Yi Fang Taiwan Fruit Tea,3,2,3,FruitTea,Franchise/select,3.9,648.0,60,53.0,3.0,2.0
+CoCo Fresh Tea & Juice,3,3,3,MilkTea,Franchise-heavy,4.066666666666666,570.0,30,28.0,3.0,3.0
+Young Tea,2,2,2,MilkTea,Independent,4.5,899.0,40,13.0,2.0,2.0
+Tea Addicts,2,1,2,MilkTea,Independent,4.4,358.0,31,35.0,2.0,1.0
+Macu Tea,2,2,2,MilkTea,Franchise/select,4.65,500.0,40,6.0,2.0,2.0
+Teews Barkery,2,2,2,Unknown,Independent,4.65,102.0,15,2.0,1.0,1.0
+TRA Tea & Juice Bar,2,2,2,FruitTea,Independent,4.55,247.0,20,17.0,2.0,2.0
+Chaco Coffee & Tea,2,1,1,MilkTea,Independent,4.8,492.0,10,1.0,1.0,1.0
+Boba House,2,2,2,MilkTea,Independent,4.4,600.0,31,17.0,2.0,2.0
+Phê,2,1,2,Unknown,Independent,4.65,581.0,10,13.0,2.0,1.0
+Sunright Tea Studio,2,2,2,MilkTea,Partner/store growth,4.5,301.0,40,19.0,2.0,2.0
+Chicha San Chen,2,2,2,PureTea,Franchise/select,4.5,1168.0,30,2.0,2.0,2.0
+TP Tea,2,1,2,PureTea,Franchise/select,4.35,499.0,40,27.0,2.0,1.0
+Drip Tea,2,2,2,FruitTea,Independent,3.95,548.0,20,17.0,2.0,2.0
+Vale Matcha,2,1,1,Matcha,Independent,4.4,288.0,10,2.0,2.0,1.0
+Choo Tea,2,1,1,MilkTea,Independent,4.6,202.0,10,1.0,1.0,1.0
+Miro Tea,2,1,2,PureTea,Independent,4.7,1882.0,10,77.0,2.0,1.0
+Tab Milktea,1,1,1,MilkTea,Independent,4.8,134.0,7,3.0,1.0,1.0
+Tapioca Express,1,1,1,MilkTea,Franchise/select,3.9,877.0,10,53.0,1.0,1.0
+Xing Fu Tang,1,1,1,MilkTea,Franchise/select,4.2,518.0,10,5.0,1.0,1.0
+Tea Talk Bubble Tea Cafe,1,1,1,MilkTea,Independent,4.6,114.0,5,9.0,1.0,1.0
+TeaFairy Tea House,1,1,1,MilkTea,Independent,4.9,28.0,5,,,
+The Alley,1,1,1,MilkTea,Franchise/select,4.2,132.0,10,4.0,1.0,1.0
+Tiger Sugar,1,1,1,MilkTea,Franchise/select,4.0,220.0,10,23.0,1.0,1.0
+Yan Tea,1,1,1,PureTea,Independent,4.3,236.0,10,4.0,1.0,1.0
+UG Tea,1,1,1,PureTea,Partner/store growth,4.6,198.0,5,,,
+Teazzi,1,1,1,MilkTea,Franchise/select,4.5,128.0,10,6.0,1.0,1.0
+32 Below Bubble Tea,1,1,1,MilkTea,Independent,4.6,97.0,5,3.0,1.0,1.0
+Social Tea,1,1,1,PureTea,Independent,4.5,60.0,5,5.0,1.0,1.0
+Jay Tea,1,1,1,MilkTea,Independent,4.4,55.0,10,5.0,1.0,1.0
+Bober Tea & Mochi Dough,1,1,1,Unknown,Independent,4.6,294.0,5,3.0,1.0,1.0
+Chayan,1,1,1,PureTea,Direct/partner,4.2,66.0,5,,,
+Comebuy Tea,1,1,1,FruitTea,Franchise/select,4.1,241.0,10,7.0,1.0,1.0
+Drink T,1,1,1,FruitTea,Independent,3.9,78.0,10,22.0,1.0,1.0
+Feng Cha,1,1,1,FruitTea,Partner/store growth,4.7,392.0,5,5.0,1.0,1.0
+Gong Cha,1,1,1,MilkTea,Franchise-heavy,3.4,82.0,10,1.0,1.0,1.0
+Hi Tea Cafe,1,1,1,MilkTea,Independent,4.6,226.0,5,26.0,1.0,1.0
+JinJin Matcha,1,1,1,Matcha,Independent,4.6,24.0,5,1.0,1.0,1.0
+Pochi Bubble Tea Cafe,1,1,1,MilkTea,Independent,4.6,249.0,21,6.0,1.0,1.0
+Kung Fu Tea,1,1,1,MilkTea,Franchise-heavy,4.2,104.0,10,4.0,1.0,1.0
+Matcha Man,1,1,1,Matcha,Independent,4.6,423.0,5,10.0,1.0,1.0
+Angel Boba,1,1,1,MilkTea,Independent,4.6,129.0,10,9.0,1.0,1.0
+Miss Boba,1,1,1,MilkTea,Independent,4.7,479.0,10,11.0,1.0,1.0
+Moge Tee,1,1,1,CheeseTea,Franchise/select,4.1,67.0,10,30.0,1.0,1.0
+Molly Tea,1,1,1,PureTea,Direct/partner,4.2,583.0,10,3.0,1.0,1.0
+Mustache Milk Tea,1,1,1,MilkTea,Independent,4.8,402.0,16,1.0,1.0,1.0
+Mauritius Brown Bubble Tea,1,1,1,MilkTea,Independent,4.8,103.0,5,4.0,1.0,1.0

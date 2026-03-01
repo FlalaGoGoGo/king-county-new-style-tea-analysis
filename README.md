@@ -12,13 +12,17 @@ If you only do one thing, open the live dashboard:
 
 - [Live Dashboard](https://is521.flalaz.com)
 - [GitHub Pages Backup Link](https://flalagogogo.github.io/king-county-new-style-tea-analysis/)
-- [Reference Tables](data_reference/)
+- [Reference Tables](data/reference/)
 
 ## Quick Links
 
 - [Open the Dashboard](https://is521.flalaz.com)
 - [Open the Backup Link](https://flalagogogo.github.io/king-county-new-style-tea-analysis/)
-- [Browse Reference Data](data_reference/)
+- [Browse Reference Data](data/reference/)
+- [Browse Processed Data](data/processed/)
+- [Browse Configs](configs/)
+- [Browse Public Scripts](scripts/)
+- [Browse Brand Logos](assets/logos/)
 - [Open the Published HTML](docs/index.html)
 
 ## Project Snapshot
@@ -154,7 +158,15 @@ This project uses a combination of public, platform, and curated sources:
 
 ```text
 docs/                  published dashboard for GitHub Pages
-data_reference/        supporting CSV / JSON / TXT reference tables
+data/reference/        dashboard-ready reference tables
+data/processed/        processed analysis tables
+data/raw/              selected source tables safe for public sharing
+data/interim/          small helper tables used by selected scripts
+data/external/geo/     geographic boundary files used by the dashboard map
+configs/               taxonomy and scoring configuration
+scripts/               public analysis and dashboard scripts
+assets/logos/          tea-brand logo files used in the dashboard
+assets/king_county_logo.png
 screenshots/           preview images
 ```
 
@@ -164,7 +176,7 @@ This repository was created for **IS521** as a final group project.
 
 **Gold Cohort Group 2**
 
-- Flala
+- [Flala](https://www.linkedin.com/in/flala/)
 - Daksha
 - Alisha
 - Yosup

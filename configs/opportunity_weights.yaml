@@ -1,0 +1,15 @@
+# Adjustable weights for live demo
+weights:
+  demand_potential: 0.28
+  supply_gap: 0.25
+  growth_momentum: 0.17
+  text_signal: 0.10
+  feasibility: 0.20
+
+# Opportunity score = +demand +gap +momentum +text +feasibility
+formula:
+  demand_sign: 1
+  gap_sign: 1
+  momentum_sign: 1
+  text_sign: 1
+  feasibility_sign: 1
