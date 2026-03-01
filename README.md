@@ -218,17 +218,12 @@ screenshots/           preview images
 
 ## Course Context
 
-This repository was created for **IS521** as a final group project.
+This repository was created for **IS521** as a final project.
 
-**Gold Cohort Group 2**
+- [Flala Zhang](https://www.linkedin.com/in/flala/)
+- Professor [Hossein Ghasemkhani](https://www.linkedin.com/in/hosseingh/)
 
-- [Flala](https://www.linkedin.com/in/flala/)
-- Daksha
-- Alisha
-- Yosup
-
-Foster School of Business
-University of Washington
+Foster School of Business, University of Washington
 
 ## Limitations
 
