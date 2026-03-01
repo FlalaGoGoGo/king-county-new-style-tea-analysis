@@ -19,6 +19,7 @@ If you only do one thing, open the live dashboard:
 - [Open the Dashboard](https://is521.flalaz.com)
 - [Open the Backup Link](https://flalagogogo.github.io/king-county-new-style-tea-analysis/)
 - [Browse Reference Data](data/reference/)
+- [Open the Data Dictionary](data/reference/README.md)
 - [Browse Processed Data](data/processed/)
 - [Browse Configs](configs/)
 - [Browse Public Scripts](scripts/)
@@ -75,6 +76,45 @@ For a quick 2-minute walkthrough:
 4. Inspect store density in **Store Geo Explorer**.
 5. Review one real comment in **Real Review Evidence**.
 6. Switch scenarios and compare how the recommendation changes.
+
+## Run Locally
+
+The repository supports two practical local workflows: viewing the published dashboard and rebuilding it from the shared public bundle.
+
+### 1. View the published dashboard locally
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python3 -m http.server 8000
+```
+
+Then open `http://localhost:8000/docs/`.
+
+### 2. Rebuild the dashboard from the shared public data bundle
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python3 scripts/34_build_visual_dashboard.py --output docs/index.html
+cp docs/index.html docs/king_county_new_style_tea_dashboard.html
+```
+
+This rebuild path uses only the public files included in the repository.
+
+### 3. Optional API-backed refresh steps
+
+Some scripts can refresh Google Places data, but they require your own API credentials.
+
+```bash
+export GOOGLE_MAPS_API_KEY=\"your_key_here\"
+python3 scripts/35_fetch_google_place_coordinates.py
+python3 scripts/25_fetch_google_places_reviews.py
+```
+
+The public repository does not ship secrets. Keep API keys in environment variables, not in tracked files.
 
 ## What You Will See In The Dashboard
 
@@ -154,11 +194,17 @@ This project uses a combination of public, platform, and curated sources:
 5. Yelp Open Dataset
 6. Manually curated local review evidence
 
+## Data Dictionary
+
+For a table-by-table explanation of the dashboard bundle, see:
+
+- [Reference Data Dictionary](data/reference/README.md)
+
 ## Repository Structure
 
 ```text
 docs/                  published dashboard for GitHub Pages
-data/reference/        dashboard-ready reference tables
+data/reference/        dashboard-ready reference tables + data dictionary
 data/processed/        processed analysis tables
 data/raw/              selected source tables safe for public sharing
 data/interim/          small helper tables used by selected scripts
@@ -190,6 +236,7 @@ University of Washington
 - Some review evidence is stronger in certain ZIP codes than others.
 - Platform data and online listings may change over time.
 - Store economics are estimated through observable signals, not direct lease contracts or full P&L access.
+- Rebuilding API-backed source tables requires your own Google Maps Platform credentials.
 
 ## Project Goal
 

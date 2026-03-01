@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""Run sentiment + topic extraction for focus districts.
-Input: data/raw/focus_district_reviews.csv
+"""Run sentiment + topic extraction for ZIP-level review evidence.
+Input: data/reference/review_samples.csv
 Output: text sentiment/topic tables in data/processed/
 """
 
@@ -38,7 +38,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--input",
-        default="data/raw/focus_district_reviews.csv",
+        default="data/reference/review_samples.csv",
         help="Input review file.",
     )
     parser.add_argument(
